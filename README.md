@@ -12,8 +12,7 @@ A YOLOv5s model that uses the Segmentation model to segment the leaves from the 
 
 
 ## Process Flow
-
-![Leaf-seg drawio](https://github.com/JinalDevadiga/test/assets/87411508/879096f1-c304-4400-a23b-9f41de5c8c27)
+![Leaf-seg drawio](https://github.com/JinalDevadiga/test/assets/87411508/74d00462-e996-437f-ace8-17511fa219aa)
 
 - Run the segment/predict.py with values for weights, test images and confidence threshold.
 - The images would be passed to the YOLOv5 segmentation model.
